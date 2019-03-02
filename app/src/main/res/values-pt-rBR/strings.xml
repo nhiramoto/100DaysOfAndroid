@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password">Senha</string>
+    <string name="labelInputEmail">Insira o seu e-mail</string>
+    <string name="labelInputPassword">Insira a sua senha</string>
+    <string name="buttonActivityA">Botão da Activity A</string>
+</resources>
