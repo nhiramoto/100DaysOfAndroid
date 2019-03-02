@@ -10,10 +10,7 @@ git checkout dayXXX
 
 ## Day 02
 
-| ![Activity A Screenshot](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day002/screenshot-activity-a.png) |
-|:--:|
-| *Activity A* |
+| ![Activity A Screenshot](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day002/screenshot-activity-a.png) | ![Activity B Screenshot](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day002/screenshot-activity-b.png) |
+|:--:|:--:|
+| *Activity A* | *Activity B* |
 
-| ![Activity B Screenshot](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day002/screenshot-activity-b.png) |
-|:--:|
-| *Activity B* |
