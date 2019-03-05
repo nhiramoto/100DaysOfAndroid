@@ -7,3 +7,9 @@ To see a solution, checkout the corresponding branch:
 ```sh
 git checkout dayXXX
 ```
+
+## Day 3
+
+| ![Initial state](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day003/preview-default.png) | ![Dropdown spinner](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day003/preview-dropdown.png) | ![Result at the TextView](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day003/preview-textview.png) |
+|:--:|:--:|:--:|
+| *Initial state* | *Dropdown spinner* | *Result at the TextView* |
