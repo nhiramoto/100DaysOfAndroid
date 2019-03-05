@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activityAButton">Botão da Activity A</string>
+    <string name="activityAResult">Mostra a opção selecionada ao clicar no botão</string>
+    <string-array name="activityAOptions">
+        <item>Selecione uma opção</item>
+        <item>Opção 01</item>
+        <item>Opção 02</item>
+        <item>Opção 03</item>
+        <item>Opção 04</item>
+        <item>Opção 05</item>
+    </string-array>
+    <string name="selectAnOption">Selecione uma opção</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">day3</string>
+    <string name="activityAButton">Activity A Button</string>
+    <string name="activityAResult">Display selected option on button click</string>
+    <string-array name="activityAOptions">
+        <item>Select a option</item>
+        <item>Option 01</item>
+        <item>Option 02</item>
+        <item>Option 03</item>
+        <item>Option 04</item>
+        <item>Option 05</item>
+    </string-array>
+    <string name="selectAnOption">Select an option</string>
+</resources>
