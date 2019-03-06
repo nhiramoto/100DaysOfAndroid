@@ -7,3 +7,10 @@ To see a solution, checkout the corresponding branch:
 ```sh
 git checkout dayXXX
 ```
+
+## Day 4
+
+| ![Initial state](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day004/preview-default.png) | ![Random value](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day004/preview-randomvalue.png) | ![Between 40..45](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day004/preview-between4045.png) |
+|:--:|:--:|:--:|
+| *Initial state* | *Random value* | *Value between 40 and 45* |
+

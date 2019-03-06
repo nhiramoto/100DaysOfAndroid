@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Day4</string>
+    <string name="between4045">Value between 40..45</string>
+    <string name="slideSlider">Slide the slider</string>
+</resources>
