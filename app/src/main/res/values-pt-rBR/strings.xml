@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="selectedFirst">Você selecionou o primeiro RadioButton</string>
+    <string name="selectedSecond">Você selecionou o segundo RadioButton</string>
+    <string name="selectedThird">Você selecionou o terceiro RadioButton</string>
+    <string name="selectedForth">Você selecionou o quarto RadioButton</string>
+    <string name="selectedNothing">Você não selecionou nenhum RadioButton</string>
+    <string name="first">Primeiro</string>
+    <string name="second">Segundo</string>
+    <string name="third">Terceiro</string>
+    <string name="forth">Quarto</string>
+</resources>

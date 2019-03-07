@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Day5</string>
+    <string name="selectedFirst">You have selected the first RadioButton</string>
+    <string name="selectedSecond">You have selected the second RadioButton</string>
+    <string name="selectedThird">You have selected the third RadioButton</string>
+    <string name="selectedForth">You have selected the forth RadioButton</string>
+    <string name="selectedNothing">You have not selected any RadioButton</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="forth">Forth</string>
+</resources>
