@@ -8,6 +8,8 @@ To see a solution, checkout the corresponding branch:
 git checkout dayXXX
 ```
 
+## Day 5
+
 | ![Initial state](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day005/preview-default.png) | ![Selected First](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day005/preview-selectedfirst.png) | ![Selected Third](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day005/preview-selectedthird.png) |
 |:--:|:--:|:--:|
 | *Initial state* | *Selected first radio button* | *Selected third radio button* |
