@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Day6</string>
+    <string name="checkOne">Check one</string>
+    <string name="checkTwo">Check two</string>
+    <string name="checkThree">Check three</string>
+    <string name="checkFour">Check four</string>
+    <string name="selectedNone">No Checkbox selected</string>
+    <string name="and">and</string>
+    <string name="selected">selected</string>
+    <string name="displayValues">Display values</string>
+</resources>

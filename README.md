@@ -7,3 +7,9 @@ To see a solution, checkout the corresponding branch:
 ```sh
 git checkout dayXXX
 ```
+
+## Day 6
+
+| ![Initial state](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day006/preview-default.png) | ![One checked](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day006/preview-onechecked.png) | ![Two checked](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day006/preview-twochecked.png) | ![All checked](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day006/preview-allchecked.png) |
+|:--:|:--:|:--:|:--:|
+| *Initial state* | *One CheckBox checked* | *Two CheckBoxes checked* | *All CheckBoxes checked* |

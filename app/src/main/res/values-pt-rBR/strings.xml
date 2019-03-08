@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="checkOne">Primeiro check</string>
+    <string name="checkTwo">Segundo check</string>
+    <string name="checkThree">Terceiro check</string>
+    <string name="checkFour">Quarto check</string>
+    <string name="selectedNone">Nenhum CheckBox selecionado</string>
+    <string name="and">e</string>
+    <string name="selected">selecionado</string>
+    <string name="displayValues">Mostrar valores</string>
+</resources>
