@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Day7</string>
+    <string name="sampleImage">Sample Image</string>
+    <string name="showImage">Show Image</string>
+    <string name="hideImage">Hide Image</string>
+</resources>

@@ -7,3 +7,9 @@ To see a solution, checkout the corresponding branch:
 ```sh
 git checkout dayXXX
 ```
+
+# Day 7
+
+| ![Initial state](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day007/preview-default.png) | ![Image Shown](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day007/preview-imageshown.png) |
+|:--:|:--:|
+| *Initial state (Image Hidden)* | *Image Shown* |
