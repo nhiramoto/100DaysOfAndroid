@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">Nome de Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="logout">Sair</string>
+    <string name="welcome">Bem Vindo</string>
+    <string name="incorrectPassword">Senha incorreta</string>
+    <string name="userNotFound">Usuário não encontrado</string>
+    <string name="loginError">Erro no Log In</string>
+    <string name="incorrectUsernameOrPassword">Nome de usuário ou senha incorreta</string>
+</resources>

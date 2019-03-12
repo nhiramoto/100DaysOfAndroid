@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Day 8</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="welcome">Welcome</string>
+    <string name="incorrectPassword">Incorrect password</string>
+    <string name="userNotFound">User not found</string>
+    <string name="loginError">Log In Error</string>
+    <string name="incorrectUsernameOrPassword">Incorrect User Name or Password</string>
+</resources>

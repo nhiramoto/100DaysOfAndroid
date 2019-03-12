@@ -7,3 +7,9 @@ To see a solution, checkout the corresponding branch:
 ```sh
 git checkout dayXXX
 ```
+
+## Day 8
+
+| ![Initial state](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day008/preview-default.png) | ![Login Error](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day008/preview-error.png) | ![Login Success](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day008/preview-success.png) | ![Back to begin](https://github.com/nhtoshiaki/100DaysOfAndroid/blob/day008/preview-backtobegin.png) |
+|:--:|:--:|:--:|:--:|
+| *Initial state* | *Log In Error* | *Log In Successfully* | *Back to beginning* |
