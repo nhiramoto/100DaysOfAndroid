@@ -11,7 +11,7 @@ object SpinnerDatabaseContract {
         const val COLUMN_NAME_FOOD_NAME = "food_name"
     }
     internal const val SQL_CREATE_ENTRIES =
-        "CREATE TABLE ${SpinnerData.TABLE_NAME} (" +
+        "CREATE TABLE IF NOT EXISTS ${SpinnerData.TABLE_NAME} (" +
                 "${BaseColumns._ID} INTEGER PRIMARY KEY," +
                 "${SpinnerData.COLUMN_NAME_FOOD_NAME} TEXT)"
     internal const val SQL_DELETE_ENTRIES = "DROP TABLE IF EXISTS ${SpinnerData.TABLE_NAME}"
@@ -19,6 +19,7 @@ object SpinnerDatabaseContract {
 
 class SpinnerDbHelper(context : Context) : SQLiteOpenHelper(context, DATABASE_NAME, null, DATABASE_VERSION) {
     override fun onCreate(db: SQLiteDatabase) {
+        db.execSQL(SpinnerDatabaseContract.SQL_DELETE_ENTRIES)
         db.execSQL(SpinnerDatabaseContract.SQL_CREATE_ENTRIES)
     }
 
